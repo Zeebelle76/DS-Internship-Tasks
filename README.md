@@ -1,7 +1,17 @@
-# DS-Internship-Tasks
+# Data Science Internship - Developers Hub Corporation 🚀
 
-Iris Dataset
-Task 1 Objective: Understand how to read, summarize, and visualize the Iris dataset.
-Approach: Loaded data using pandas, checked structure with .shape and head(), and created scatter plots, histograms, and box plots using seaborn and matplotlib.
-Insights: I learned how different iris species have distinct petal measurements.
+This repository contains all the tasks completed during my Data Science & Analytics internship.
 
+## 📁 Tasks Overview
+
+| Task # | Project Name | Description | Link |
+|--------|--------------|-------------|------|
+| 1 | Iris Dataset EDA | Visualizing flower species features | 
+| 2 | Credit Risk Prediction | Classifying loan applicants |
+| 4 | Insurance Cost Prediction | Predicting premiums using Linear Regression |
+
+## 🛠️ Skills Learned
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Seaborn/Matplotlib)
+- Machine Learning (Regression & Classification)
+- Data Preprocessing & Encoding
